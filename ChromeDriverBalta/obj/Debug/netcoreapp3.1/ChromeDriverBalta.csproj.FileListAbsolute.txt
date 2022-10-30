@@ -1,0 +1,17 @@
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\bin\Debug\netcoreapp3.1\ChromeDriverBalta.exe
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\bin\Debug\netcoreapp3.1\ChromeDriverBalta.deps.json
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\bin\Debug\netcoreapp3.1\ChromeDriverBalta.runtimeconfig.json
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\bin\Debug\netcoreapp3.1\ChromeDriverBalta.runtimeconfig.dev.json
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\bin\Debug\netcoreapp3.1\ChromeDriverBalta.dll
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\bin\Debug\netcoreapp3.1\ChromeDriverBalta.pdb
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\obj\Debug\netcoreapp3.1\ChromeDriverBalta.csproj.AssemblyReference.cache
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\obj\Debug\netcoreapp3.1\ChromeDriverBalta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\obj\Debug\netcoreapp3.1\ChromeDriverBalta.AssemblyInfoInputs.cache
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\obj\Debug\netcoreapp3.1\ChromeDriverBalta.AssemblyInfo.cs
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\obj\Debug\netcoreapp3.1\ChromeDriverBalta.csproj.CoreCompileInputs.cache
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\obj\Debug\netcoreapp3.1\ChromeDriverBalta.csproj.CopyComplete
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\obj\Debug\netcoreapp3.1\ChromeDriverBalta.dll
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\obj\Debug\netcoreapp3.1\ChromeDriverBalta.pdb
+C:\Users\mxthe\source\repos\ChromeDriverBalta\ChromeDriverBalta\obj\Debug\netcoreapp3.1\ChromeDriverBalta.genruntimeconfig.cache
